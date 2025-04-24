@@ -19,11 +19,11 @@ Data Analysis using Excel and SQL and Power Bi dashboard.
 
  - <a href = "https://app.powerbi.com/links/9sScZi34tC?ctid=9b4836fa-8245-4277-b525-89a5fc2cbb5d&pbi_source=linkShare&bookmarkGuid=e92dcf5e-b99e-4718-8aad-505dd6c18ac1">View Dashboard</a>
 
- <a href = "https://github.com/masabjatoi/OLA-Data-Analysis-Project/blob/main/Screenshot%202025-04-25%20003602.png">
- -This dashboard page displays OLA's key booking metrics for July 2024, including:
- -Total bookings (103,024) and booking value (₹35M)
- -Breakdown of booking statuses (successful, cancelled, etc.)
- -Weekly ride volume trends showing a slight decline
- -Count of bookings over time
- -The data provides a high-level view of demand and booking performance for the month.
+ [![OLA Booking Metrics](Screenshot_2025-04-25_003602.png)](images/Screenshot_2025-04-25_003602.png)
+ - This dashboard page displays OLA's key booking metrics for July 2024, including:
+ - Total bookings (103,024) and booking value (₹35M)
+ - Breakdown of booking statuses (successful, cancelled, etc.)
+ - Weekly ride volume trends showing a slight decline
+ - Count of bookings over time
+ - The data provides a high-level view of demand and booking performance for the month.
 

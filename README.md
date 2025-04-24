@@ -64,3 +64,45 @@ Data Analysis using Excel, SQL, and Power BI dashboard.
 - Driver Ratings: 3.98 (Bike) to 4.01 (Prime SUV/E-Bike)
 - Customer Ratings: Consistently high (3.99-4.01) for all vehicle types
 - 7 Vehicle Categories compared
+
+---
+
+## 🔎 Project Insights
+
+### 📈 Key Findings:
+1. **Revenue Drivers**:
+   - E-Bikes generated highest revenue (₹8.18M) despite being newer vehicles
+   - Prime Sedans accounted for longest distances traveled (235K units)
+
+2. **Cancellation Patterns**:
+   - 28.08% overall cancellation rate
+   - Bikes had highest cancellation rate (35.49%)
+   - Top cancellation reason: "Driver not moving" (customer-initiated)
+
+3. **Customer Behavior**:
+   - UPI was most popular payment method
+   - Top customer (CID785112) spent ₹8,025 in July
+   - Ride demand declined slightly through the month
+
+4. **Service Quality**:
+   - Consistently high ratings (3.98-4.01 across all categories)
+   - Prime SUV received highest driver ratings (4.01)
+
+---
+
+## 🎯 Final Conclusion
+
+This analysis reveals OLA's strong market position with:
+- **Healthy Revenue**: ₹35M monthly booking value
+- **High Service Standards**: Consistent 4-star ratings across fleet
+- **Growth Opportunities**:
+  - Reduce bike cancellations (current 35.49% rate)
+  - Incentivize Prime Sedan/E-Bike usage (highest revenue generators)
+  - Target top customers with loyalty programs
+
+**Recommendations**:
+1. Implement driver training to reduce cancellations
+2. Promote UPI payments (current customer preference)
+3. Monitor weekly demand trends for fleet optimization
+
+The data demonstrates OLA's operational strengths while identifying clear areas for improvement to boost customer satisfaction and profitability.
